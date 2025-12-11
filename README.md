@@ -9,7 +9,7 @@ O estudo visa quantificar a relação entre a adoção de tecnologias (Agricultu
 
 ## 📂 Estrutura do Repositório
 
-* **`dataset_varginha_cafe.csv`**: Dataset principal (sintético) contendo a série temporal utilizada na análise.
+* **`dataset_varginha_cafe.csv`**: Dataset principal contendo a série temporal utilizada na análise.
 * **`metodologia_dataset.md`**: Documentação detalhada explicando as fontes e métodos de construção do dataset.
 * **`analise_descritiva.py`**: Script para geração de estatísticas descritivas e análise de correlação.
 * **`visualizacoes.py`**: Script responsável por gerar os gráficos de evolução temporal e matrizes de correlação (Gráficos 1 a 4 do artigo).
