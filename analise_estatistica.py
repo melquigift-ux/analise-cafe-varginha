@@ -3,7 +3,6 @@
 """
 Análise Estatística: Correlação entre Avanço Tecnológico e Produção de Café
 Região: Polo de Varginha e Sul de Minas Gerais
-Período: 2015-2024
 """
 
 import pandas as pd
