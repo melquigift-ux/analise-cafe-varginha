@@ -3,9 +3,6 @@
 """
 Visualizações de Dados - Produção de Café em Varginha/MG
 Gráficos para Artigo Científico
-
-Autor: Análise para Artigo Científico
-Data: Novembro 2025
 """
 
 import numpy as np
